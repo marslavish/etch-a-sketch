@@ -29,7 +29,7 @@ function generateGrid(squares) {
   root.style.setProperty('--squareWidth', squareWidth);
 }
 
-generateGrid(4);
+generateGrid(16);
 
 // * Shades of gray effect
 function shadesOfGray() {
